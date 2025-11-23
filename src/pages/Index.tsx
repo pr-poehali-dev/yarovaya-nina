@@ -49,7 +49,7 @@ export default function Index() {
                   Яровая Нина Андреевна
                 </h2>
                 <p className="text-xl text-muted-foreground">
-                  Инженер отдела нагрузок и динамики конструкции
+                  Ведущий инженер отдела нагрузок и динамики конструкции
                 </p>
                 <p className="text-lg text-muted-foreground">
                   ПАО "РКК "Энергия"
@@ -154,7 +154,7 @@ export default function Index() {
                   <div className="flex-1">
                     <h3 className="text-2xl font-bold mb-2">ПАО "РКК "Энергия"</h3>
                     <p className="text-lg font-semibold text-accent mb-2">
-                      Инженер отдела нагрузок и динамики конструкции
+                      Ведущий инженер отдела нагрузок и динамики конструкции
                     </p>
                     <p className="text-muted-foreground mb-4">С 2018 года по настоящее время</p>
                     <p className="text-muted-foreground leading-relaxed">
